@@ -12,6 +12,13 @@
 - 🌱 I’m currently learning **Machine Learning and Blockchain**
 
 - 💬 Ask me about **MERN, Django**
+- - 👯 I’m collaborating on [Kegeberew Collective Housing Development Service](https://tibibirbet.purposeblacketh.com)
+  - 👯 I’m collaborating on [Vision Charity Organization](https://[https://visioncharity.org.et/)
+  - 👯 I’m collaborating on [Roha Specialized Dental Clinc](https://rohaspecializeddentalclinic.vercel.app/)
+
+- 💬 Ask me about React,Go,Django Express, MongoDB, Node, TailwindCss, Github and Docker
+
+- ⚡️ Fun fact I'm tech-enthusiast
 
 - 📫 How to reach me **bewketuwondwosen@gmail.com**
 
