@@ -1,11 +1,9 @@
-[![MasterHead](https://b1463816.smushcdn.com/1463816/wp-content/uploads/2015/04/banner-web-development.png?size=1080x353&lossy=2&strip=1&webp=1)](https://gizework21.io)
+<div class="container" style="max-width: 800px; margin: 20px auto; background-color: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+  <h1 align="center" style="text-align: center; color: #333;">Hi 👋, I'm Wondwosen Bewketu</h1>
+  <h3 align="center" style="text-align: center; color: #333;">A passionate Lead FullStack developer from Ethiopia</h3>
+  <img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/07/fs2d1-1-1024x417.jpg" alt="MasterHead" width="1080" height="300" style="display: block; margin: 20px auto; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); max-width: 100%;">
+</div>
 
-<h1 align="center">Hi 👋, I'm Wondwosen Bewketu</h1>
-<h3 align="center">A passionate Lead FullStack developer from Ethiopia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wondwosen-bewketu&label=Profile%20views&color=0e75b6&style=flat" alt="wondwosen-bewketu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wondwosen-bewketu" alt="wondwosen-bewketu" /></a> </p>
 
 - 🔭 I’m currently working on [KTS](https://play.google.com/store/apps/details?id=com.kts.KAPS)
 
