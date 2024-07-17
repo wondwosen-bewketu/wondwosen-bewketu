@@ -5,14 +5,14 @@
 </div>
 
 
-- 🔭 I’m currently working on [KTS](https://play.google.com/store/apps/details?id=com.kts.KAPS)
+- 🔭 I’m currently working on [KTS](https://https://kegeberewtech.com/)
 
 - 🌱 I’m currently learning **Machine Learning and Blockchain**
 
 - 💬 Ask me about **MERN, Django**
-- - 👯 I’m collaborating on [Kegeberew Collective Housing Development Service](https://tibibirbet.purposeblacketh.com)
-  - 👯 I’m collaborating on [Vision Charity Organization](https://[https://visioncharity.org.et/)
-  - 👯 I’m collaborating on [Roha Specialized Dental Clinc](https://rohaspecializeddentalclinic.vercel.app/)
+- - 👯 I’m collaborating on [Roha Specialized Denatl CLinck](https://www.rohadent.com/)
+  - 👯 I’m collaborating on [Vision Charity Organization](https://https://visioncharity.org.et/)
+  - 👯 I’m collaborating on [Stop MDE](https://stopmde.com/)
 
 - 💬 Ask me about React,Go,Django Express, MongoDB, Node, TailwindCss, Github and Docker
 
