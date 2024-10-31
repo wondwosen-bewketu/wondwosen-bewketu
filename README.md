@@ -5,9 +5,7 @@
 </div>
 
 
-- 🔭 I’m currently working on [KTS](https://https://kegeberewtech.com/)
-
-- 🌱 I’m currently learning **Machine Learning and Blockchain**
+- 🌱 I’m currently learning **GoLang, Machine Learning and Blockchain**
 
 - 💬 Ask me about **MERN, Django**
 - - 👯 I’m collaborating on [Roha Specialized Denatl CLinck](https://www.rohadent.com/)
