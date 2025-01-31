@@ -9,18 +9,27 @@
 </div>
 
 
-- 🌱 I’m currently learning **GoLang, Machine Learning and Blockchain**
+<p>
+    <samp>
+    I am a <span style="color:blue">Full-Stack & Backend Developer</span> and a <span style="color:green">Tech Enthusiast</span>. Passionate about building scalable applications, leveraging cloud technologies, and solving real-world problems through innovative solutions.
+    </samp>
+</p>
 
-- 💬 Ask me about **MERN, Django**
-- - 👯 I’m collaborating on [Roha Specialized Denatl CLinck](https://www.rohadent.com/)
-  - 👯 I’m collaborating on [Vision Charity Organization](https://https://visioncharity.org.et/)
-  - 👯 I’m collaborating on [Stop MDE](https://stopmde.com/)
+![GitHub contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
+![GitHub contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-- 💬 Ask me about React,Go,Django Express, MongoDB, Node, TailwindCss, Github and Docker
+<div style="margin-top: 30px; font-family: 'Arial', sans-serif; color: #E0E0E0;">
+  <h3>💫 About Me</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>🔭 Current Focus: Mastering backend development, cloud infrastructure, and scalable solutions using AWS and Node.js.</li>
+    <li>👯 Collaboration: Open to collaborating on impactful full-stack or backend projects with cloud integrations.</li>
+    <li>🤝 Seeking Help: Eager to deepen expertise in distributed systems, cloud architecture, and DevOps best practices.</li>
+    <li>🌱 Learning: Pursuing Information Technology at Wolkite University, specializing in software engineering.</li>
+    <li>💬 Ask Me About: Backend development, AWS cloud services, Node.js, and scalable architectures.</li>
+    <li>⚡ Fun Fact: A problem solver at heart, always excited to optimize systems for better performance and user experiences!</li>
+  </ul>
+</div>
 
-- ⚡️ Fun fact I'm tech-enthusiast
-
-- 📫 How to reach me **bewketuwondwosen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
