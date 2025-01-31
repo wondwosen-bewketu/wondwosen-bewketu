@@ -3,11 +3,9 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
 <h2> 
-  <img src="https://readme-typing-svg.demolab.com?font=Mulish&size=35&pause=1000&color=19F73B&width=800&lines=Hi%20👋%20Welcome%20to%20my%20GitHub%20profile%20%20;I%20am%Wondwosen Bewketu,%20a%20A passionate Lead FullStack developer from Ethiopia%20Developer!%20;Let's%20build%20something%20amazing!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Mulish&size=35&pause=1000&color=19F73B&width=800&lines=Hi%20👋%20Welcome%20to%20my%20GitHub%20profile%20%20;I%20amWondwosen Bewketu,%20a%20A passionate Backend%20Developer!%20;Let's%20build%20something%20amazing!" alt="Typing SVG"/>
 </h2>
-  <h1 align="center" style="text-align: center; color: #333;">Hi 👋, I'm Wondwosen Bewketu</h1>
-  <h3 align="center" style="text-align: center; color: #333;">A passionate Lead FullStack developer from Ethiopia</h3>
-  <img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/07/fs2d1-1-1024x417.jpg" alt="MasterHead" width="1080" height="300" style="display: block; margin: 20px auto; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); max-width: 100%;">
+ 
 </div>
 
 
